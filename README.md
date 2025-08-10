@@ -1,6 +1,8 @@
-### Sam (@samc-16)
+### Welcome!
+`hello.`
 
-* Learning Programming 
+### About me:
+* (Passively) Learning Programming 
   - Python
   - C
   - Lua
