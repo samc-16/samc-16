@@ -1,16 +1,17 @@
 ### Welcome!
 
-`I still haven't made anything so this README.md is bland`
+- 13 years old
+- Actively Making projman, A Linux Programming Project Manager
+
 
 ### About me:
 * Learning Programming 
   - Python 
-  - C (Not Yet)
-  - Lua
+  - C
 * A Non-Stereotypical Archlinux User
 
 ### Projects:
-well as i said i haven't made anything, but plan to do so
+ - `projman` 
 
 ##
 ```python 
