@@ -1,17 +1,13 @@
-### Welcome!
-
-- 13 years old
-- Actively Making projman, A Linux Programming Project Manager
-
+# Welcome!
 
 ### About me:
-* Learning Programming 
-  - Python 
-  - C
+* Learning Programming with Python
+* Young Programmer
+
 * A Non-Stereotypical Archlinux User
 
 ### Projects:
- - `projman` 
+ - `` 
 
 ##
 ```python 
